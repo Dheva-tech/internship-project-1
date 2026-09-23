@@ -1,0 +1,6 @@
+{
+  "name": "Infygrid Student & Employee Management System",
+  "description": "Full-stack Student & Employee Management System with CRUD operations, frontend & backend validation, MySQL schema exporter, REST API, and local XAMPP/WAMP setup documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
